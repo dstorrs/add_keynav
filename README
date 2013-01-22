@@ -1,0 +1,5 @@
+This is a little script that adds keyboard navigation to a set of
+files (typically HTML files) via the 'n'ext and 'p'revious keys.  It's
+a quick-and-dirty version that solved the issue with the specific
+files I was looking at at the time; at some point should be
+generalized for reuse.

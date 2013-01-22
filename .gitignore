@@ -1,0 +1,12 @@
+*~
+*.gz
+*.tgz
+*.tbz2
+*.tar
+.DS_Store
+Thumbs.db
+.cache
+*.ignore
+foo
+bar
+out
